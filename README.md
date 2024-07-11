@@ -98,18 +98,3 @@ Expected Result:
 The service should log an error indicating the authorization failure.
 The service should handle the exception and continue running.
 These test cases should help ensure that your API microservice can handle various Kafka-related errors and continue operating smoothly.
-
-Thank you for your email.
-
-Regarding the xxddx timeline, here's the approximate breakdown for the tasks:
-
-Initial setup and environment preparation: 1 week
-Router API testing (assuming 5 server APIs completed): 2 weeks
-Integration testing with Kafka connections: 1 week
-Final validation and bug fixes: 1 week
-In total, we are looking at approximately 5 weeks for the entire QA process.
-
-Please let me know if you need any further details or adjustments.
-
-Best regards,
-xxxx
